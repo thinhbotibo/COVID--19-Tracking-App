@@ -8,4 +8,6 @@ Date: 12/30/2020 <br/>
  #### Download beautifulsoup 
     - open cmd: python -m unittest discover -s bs4
  #### Simply run main.py   
-  
+   ![image](https://user-images.githubusercontent.com/70302272/103371763-494cf300-4a9e-11eb-839e-28508d95c041.png)  
+   
+   - Use Option in Menu Bar to see difference choices.
